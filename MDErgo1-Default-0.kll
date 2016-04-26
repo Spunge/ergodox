@@ -44,6 +44,7 @@ U"7" : U"7";
 U"8" : U"8";
 U"9" : U"9";
 U"0" : U"0";
+U"MINUS" : CONS"PAUSEPLAY";
 U"Y" : U"J";
 U"U" : U"F";
 U"I" : U"U";

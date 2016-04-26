@@ -224,10 +224,6 @@
                 "0": {
                     "key": "G",
                     "label": "G"
-                },
-                "1": {
-                    "key": "CONS:SCANNEXTTRACK",
-                    "label": "NEXT"
                 }
             }
         },
@@ -243,8 +239,8 @@
                     "label": "T"
                 },
                 "1": {
-                    "key": "CONS:PLAY",
-                    "label": "PLAY"
+                    "key": "CONS:SCANNEXTTRACK",
+                    "label": "NEXT"
                 }
             }
         },
@@ -260,8 +256,8 @@
                     "label": "H"
                 },
                 "1": {
-                    "key": "CONS:PAUSE",
-                    "label": "PAUSE"
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -275,10 +271,6 @@
                 "0": {
                     "key": "S",
                     "label": "S"
-                },
-                "1": {
-                    "key": "CONS:SCANPREVIOUSTRACK",
-                    "label": "PREV"
                 }
             }
         },
@@ -655,7 +647,10 @@
             "w": 6,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
+                }
             }
         },
         {
