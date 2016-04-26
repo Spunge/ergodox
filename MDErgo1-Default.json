@@ -17,10 +17,6 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "ESC",
-                    "label": "ESC"
-                },
                 "1": {
                     "key": "F11",
                     "label": "F11"
@@ -119,14 +115,7 @@
             "w": 6,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "EQUALS",
-                    "label": "="
-                },
-                "2": {
-                    "key": "#:flashMode()",
-                    "label": "FLASH"
-                }
+
             }
         },
         {
@@ -136,10 +125,7 @@
             "w": 4,
             "h": 6,
             "layers": {
-                "0": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
-                }
+
             }
         },
         {
@@ -165,6 +151,10 @@
                 "0": {
                     "key": "W",
                     "label": "W"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -178,6 +168,10 @@
                 "0": {
                     "key": "R",
                     "label": "R"
+                },
+                "1": {
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
@@ -266,8 +260,8 @@
                     "label": "H"
                 },
                 "1": {
-                    "key": "CONS:SCANPREVIOUSTRACK",
-                    "label": "PREV"
+                    "key": "CONS:PAUSE",
+                    "label": "PAUSE"
                 }
             }
         },
@@ -281,6 +275,10 @@
                 "0": {
                     "key": "S",
                     "label": "S"
+                },
+                "1": {
+                    "key": "CONS:SCANPREVIOUSTRACK",
+                    "label": "PREV"
                 }
             }
         },
@@ -330,7 +328,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "DELETE",
+                    "label": "DEL"
+                }
             }
         },
         {
@@ -340,10 +341,7 @@
             "w": 4,
             "h": 6,
             "layers": {
-                "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
-                }
+
             }
         },
         {
@@ -442,8 +440,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "FUN3",
+                    "label": "\u01923"
                 }
             }
         },
@@ -493,7 +491,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "LCTRL",
+                    "label": "LCTRL"
+                }
             }
         },
         {
@@ -513,10 +514,7 @@
             "w": 4,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
-                }
+
             }
         },
         {
@@ -657,10 +655,7 @@
             "w": 6,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "MINUS",
-                    "label": "-"
-                }
+
             }
         },
         {
@@ -670,10 +665,7 @@
             "w": 4,
             "h": 6,
             "layers": {
-                "0": {
-                    "key": "LBRACE",
-                    "label": "["
-                }
+
             }
         },
         {
@@ -703,6 +695,10 @@
                 "2": {
                     "key": "P7",
                     "label": "P7"
+                },
+                "3": {
+                    "key": "LBRACE",
+                    "label": "["
                 }
             }
         },
@@ -720,6 +716,10 @@
                 "2": {
                     "key": "P8",
                     "label": "P8"
+                },
+                "3": {
+                    "key": "RBRACE",
+                    "label": "]"
                 }
             }
         },
@@ -765,8 +765,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "BACKTICK",
+                    "label": "`"
                 }
             }
         },
@@ -794,13 +794,13 @@
                     "key": "N",
                     "label": "N"
                 },
-                "1": {
-                    "key": "CONS:VOLUMEUP",
-                    "label": "VOL+"
-                },
                 "2": {
                     "key": "P4",
                     "label": "P4"
+                },
+                "3": {
+                    "key": "#:'('",
+                    "label": "("
                 }
             }
         },
@@ -815,13 +815,13 @@
                     "key": "E",
                     "label": "E"
                 },
-                "1": {
-                    "key": "CONS:VOLUMEDOWN",
-                    "label": "VOL-"
-                },
                 "2": {
                     "key": "P5",
                     "label": "P5"
+                },
+                "3": {
+                    "key": "#:')'",
+                    "label": ")"
                 }
             }
         },
@@ -836,13 +836,13 @@
                     "key": "O",
                     "label": "O"
                 },
-                "1": {
-                    "key": "CONS:MUTE",
-                    "label": "MUTE"
-                },
                 "2": {
                     "key": "P6",
                     "label": "P6"
+                },
+                "3": {
+                    "key": "#:'{'",
+                    "label": "{"
                 }
             }
         },
@@ -860,6 +860,10 @@
                 "2": {
                     "key": "P+",
                     "label": "P+"
+                },
+                "3": {
+                    "key": "#:'}'",
+                    "label": "}"
                 }
             }
         },
@@ -909,10 +913,7 @@
             "w": 4,
             "h": 6,
             "layers": {
-                "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
-                }
+
             }
         },
         {
@@ -942,6 +943,10 @@
                 "2": {
                     "key": "P1",
                     "label": "P1"
+                },
+                "3": {
+                    "key": "#:'<'",
+                    "label": "<"
                 }
             }
         },
@@ -959,6 +964,10 @@
                 "2": {
                     "key": "P2",
                     "label": "P2"
+                },
+                "3": {
+                    "key": "#:'>'",
+                    "label": ">"
                 }
             }
         },
@@ -976,6 +985,10 @@
                 "2": {
                     "key": "P3",
                     "label": "P3"
+                },
+                "3": {
+                    "key": "MINUS",
+                    "label": "-"
                 }
             }
         },
@@ -993,6 +1006,10 @@
                 "2": {
                     "key": "PENTER",
                     "label": "P\u21b5"
+                },
+                "3": {
+                    "key": "EQUALS",
+                    "label": "="
                 }
             }
         },
@@ -1027,8 +1044,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RCTRL",
-                    "label": "RCTRL"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         },
