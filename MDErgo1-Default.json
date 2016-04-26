@@ -471,8 +471,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -484,8 +484,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             }
         },
