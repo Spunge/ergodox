@@ -458,8 +458,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
@@ -471,8 +471,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -483,7 +483,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "LALT",
+                    "label": "LALT"
+                }
             }
         },
         {
@@ -833,8 +836,8 @@
                     "label": "P6"
                 },
                 "3": {
-                    "key": "QUOTE",
-                    "label": "'"
+                    "key": "BACKTICK",
+                    "label": "`"
                 }
             }
         },
@@ -854,8 +857,8 @@
                     "label": "P+"
                 },
                 "3": {
-                    "key": "#:'|'",
-                    "label": "|"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             }
         },
@@ -867,8 +870,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "QUOTE",
+                    "label": "'"
                 }
             }
         },
@@ -1049,8 +1052,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             }
         },
