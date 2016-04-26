@@ -11,10 +11,10 @@ U"U" : U"LBRACE";
 U"I" : U"RBRACE";
 U"J" : '(';
 U"K" : ')';
-U"L" : '{';
-U"SEMICOLON" : '}';
-U"M" : '<';
-U"COMMA" : '>';
+U"L" : U"QUOTE";
+U"SEMICOLON" : '|';
+U"M" : '{';
+U"COMMA" : '}';
 U"PERIOD" : U"MINUS";
 U"SLASH" : U"EQUALS";
 
