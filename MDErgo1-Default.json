@@ -17,6 +17,10 @@
             "w": 4,
             "h": 4,
             "layers": {
+                "0": {
+                    "key": "6",
+                    "label": "6"
+                },
                 "1": {
                     "key": "F11",
                     "label": "F11"
@@ -115,7 +119,10 @@
             "w": 6,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "SYS:SLEEP",
+                    "label": "SLEEP"
+                }
             }
         },
         {
@@ -333,7 +340,10 @@
             "w": 4,
             "h": 6,
             "layers": {
-
+                "0": {
+                    "key": "CONS:CALCULATOR",
+                    "label": "CALC"
+                }
             }
         },
         {
@@ -660,7 +670,10 @@
             "w": 4,
             "h": 6,
             "layers": {
-
+                "0": {
+                    "key": "CONS:INTERNETBROWSER",
+                    "label": "WEB"
+                }
             }
         },
         {
@@ -908,7 +921,10 @@
             "w": 4,
             "h": 6,
             "layers": {
-
+                "0": {
+                    "key": "CONS:FILEBROWSER",
+                    "label": "FILES"
+                }
             }
         },
         {
@@ -1028,7 +1044,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "RALT",
+                    "label": "RALT"
+                }
             }
         },
         {
